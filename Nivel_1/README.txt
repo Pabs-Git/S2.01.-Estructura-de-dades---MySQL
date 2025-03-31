@@ -20,7 +20,6 @@ MySQL Server (versió 8.0 o superior) instal·lat i configurat.
 
 MySQL Workbench o una altra eina similar per a executar les consultes.
 
-Coneixement bàsic de SQL, especialment sobre JOIN i manipulació de dades.
 
 🛠️ Instal·lació
 
@@ -38,7 +37,7 @@ Executa el fitxer .sql proporcionat per a crear i carregar la base de dades.
 
 Per a executar les consultes SQL:
 
-Obre MySQL Workbench i selecciona la base de dades correcta (USE nom_de_la_base_de_dades;).
+Obre MySQL Workbench i selecciona la base de dades correcta.
 
 Copia i enganxa les consultes SQL proporcionades en aquest exercici.
 
