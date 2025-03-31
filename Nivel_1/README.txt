@@ -32,9 +32,7 @@ Obre MySQL Workbench i connecta't al servidor MySQL.
 
 Executa el fitxer .sql proporcionat per a crear i carregar la base de dades.
 
-Inclou la creació de les taules i inserció de dades de prova.
 
-Verifica que les taules han estat creades correctament amb SHOW TABLES;.
 
 ▶️ Execució
 
@@ -46,4 +44,3 @@ Copia i enganxa les consultes SQL proporcionades en aquest exercici.
 
 Executa les consultes i revisa els resultats obtinguts.
 
-Ajusta els valors segons sigui necessari per a fer proves amb diferents dades.
